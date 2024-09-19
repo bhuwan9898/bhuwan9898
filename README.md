@@ -1,5 +1,12 @@
 # 💫 About Me:
-I'm currently working on Eye Tracking Research project using HTML, CSS, JavaScript and Node JS. In this project I have created and implemented dynamic heatmaps and fixation-maps overlayed over the images of manuscript shown to the subject; helped to visually analyze the area of the manuscript that the subject focused mainly on, which helped the team to study the eye behavior even better. <br>I have worked as a front-end UI designer to create the web application for the demonstration of the app to the eye specialist; helped them to visually analyze the eye movements’ data collected from Tobii eye tracker using media pipe technology. Besides this I am currently working on creating a Research Collab app using ReactJS and SpringBoot. This is a full stack web app and is under process. So, I am currently learning git, github, languages like HTML, CSS, JS, ReactJS, SpringBoot and React Bootstrap. Fun fact about me is I love swimming.  <br> 
+Passionate and skilled Computer Science student with 4 years of coding experience, currently pursuing a Bachelor of Science at Northern Kentucky University. Experienced in full-stack development, with a strong focus on creating innovative and user-centric applications. Proficient in a wide range of technologies including React, Node.js, Express, and various databases. Demonstrated ability to lead projects, implement complex algorithms, and contribute to research initiatives.
+Key Highlights:
+
+-Developing ACAD Link, a university collaboration platform, showcasing expertise in React, Tailwind CSS, and real-time data streaming technologies.
+-Contributing to eye-tracking research, creating detailed visualizations using HTML Canvas and JavaScript.
+-Led the development of a tourism recommendation website, implementing personalized algorithms and secure user authentication.
+
+Eager to contribute to challenging projects and continue growing as a software developer. Open to collaboration and always excited to learn new technologies and methodologies in the ever-evolving field of computer science.Last edited just now  <br> 
 
 
 ## 🌐 Socials:
