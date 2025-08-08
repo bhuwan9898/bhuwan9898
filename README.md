@@ -1,26 +1,55 @@
-# 💫 About Me:
-I am a passionate and driven Computer Science student at **Northern Kentucky University** with a Minor in Mathematics and a strong academic record (**GPA: 3.97**). With over four years of coding experience, I specialize in full-stack development and software engineering, with a keen interest in building user-centric, scalable, and impactful applications.  
+# 💫 About Me
 
-My technical toolkit includes **Java, JavaScript, Node.js, React, Spring Boot, Vue.js**, and various database technologies. I enjoy working across the stack — from crafting intuitive frontends to developing robust backend systems. I also thrive in research-oriented environments, where I’ve contributed to projects combining technology with human-computer interaction and data visualization.  
+Hi there! I'm **Bhuwan Bhandari**, a passionate and driven **Computer Science** student at **Northern Kentucky University**, minoring in **Mathematics** with a stellar **GPA of 3.97**. With over four years of hands-on coding experience and a strong foundation in both theory and practice, I specialize in **full-stack development**, **backend engineering**, and **human-centered software design**.
 
-Eager to continuously learn and collaborate, I take pride in writing clean, efficient code and building solutions that make a difference. Currently, I’m honing my skills further as an **Extreme Programming Intern at Great American Insurance Group**, where I work on enterprise-level software in a fast-paced, feedback-driven team.
+I thrive at the intersection of **technology, design, and collaboration**, building applications that are not only functional but also intuitive and scalable. My technical toolkit includes:
+
+- **Languages**: Java, JavaScript, Node.js, C/C++, Python, PHP, SQL  
+- **Frameworks/Libraries**: Spring Boot, React, Vue.js, Redux, Zustand, TailwindCSS, Bootstrap  
+- **Tools**: Git, Docker, AWS (EC2), MongoDB, REST APIs, JWT, WebSockets, JUnit, Playwright  
+
+Currently, I’m sharpening my software engineering skills as an **Extreme Programming Intern** at **Great American Insurance Group**, where I build enterprise-level access review tools, collaborate in a test-driven and pair-programming culture, and modernize legacy systems using **Spring Boot**, **Vue.js**, and **Oracle DB**.
+
+I’m a big believer in **clean code, continuous learning, and collaborative development**. Whether I’m building real-time collaboration tools or visualizing complex data, I approach every challenge with curiosity and precision.
 
 ---
 
-# My Key Works
-### Eye-Tracking Research & Data Visualization  
-Contributed to NKU's Human-Computer Interaction Lab by building interactive **heatmaps** and **fixation maps** with **HTML Canvas and JavaScript** to visualize reading patterns. Designed backend services using **Node.js, PHP**, and databases for efficient data processing.  
+# 🚀 Featured Projects
 
-### Campus Navigation App (NKU)  
-Built a **React Native** mobile application helping students locate campus buildings and services. Integrated **Google Maps API**, real-time walking directions, and interactive building visualizations.  
+### 🔬 Eye-Tracking Research & Data Visualization  
+**Tech Stack:** HTML Canvas, JavaScript, Node.js, MongoDB, MySQL  
+Developed interactive **heatmaps** and **fixation maps** to visualize eye-tracking data for a research project at NKU’s Human-Computer Interaction Lab. Designed and deployed a full backend to collect and process data from over 20 participants, offering insights into cognitive engagement during reading.
 
-### CPU Scheduling Algorithms Visualizer  
-Developed a web-based simulation tool for visualizing CPU scheduling algorithms with **React** and **Spring Boot**. Utilized **Chart.js** for interactive Gantt charts and deployed the backend on **AWS** with **Docker** for scalable hosting.  
+---
 
-### Budget Buddy - Hackathon Project (3rd Place Winner)  
-Engineered a dynamic financial education platform during the **Fidelity NKU Hackathon**. Leveraged **Node.js, MongoDB**, and **OpenAI APIs** to generate interactive quizzes and real-time AI-powered feedback on budgeting and personal finance topics.  
+### 🧭 Campus Navigation App (NKU)  
+**Tech Stack:** React Native, TailwindCSS, React Native Maps, Google Maps API  
+Built a mobile app for NKU students to search for campus buildings and services with **real-time geolocation and walking directions**. Designed an intuitive map interface with polygon overlays for buildings and live polyline routing using Google Maps API.
 
-Eager to contribute to challenging projects and continue growing as a software developer. Open to collaboration and always excited to learn new technologies and methodologies in the ever-evolving field of computer science.
+---
+
+### 🧠 CPU Scheduling Algorithms Visualizer  
+**Tech Stack:** React, Java, Spring Boot, Tailwind, Chart.js, Docker, AWS  
+Created an educational simulation tool for visualizing scheduling algorithms such as FCFS, SJF, and Round Robin. Backend logic was implemented in **Spring Boot**, while **Chart.js** powered dynamic Gantt charts in the frontend. The system was **Dockerized and deployed on AWS EC2** for public access.
+
+---
+
+### 💸 Budget Buddy – Hackathon Project (3rd Place Winner)  
+**Tech Stack:** Node.js, MongoDB, OpenAI API, HTML/CSS/JS  
+Award-winning project developed during the **Fidelity x NKU Hackathon**. Designed an AI-powered financial literacy platform that generated custom quizzes and interactive feedback using **LLMs**. Focused on enhancing users’ understanding of budgeting, savings, and debt through gamification and real-time engagement.
+
+---
+
+# 📚 Academics & Teaching
+
+- **Teaching Assistant** – Data Structures & Algorithms (Java)  
+  Helped students grasp key CS concepts, graded assignments, and designed a custom AVL tree-based file system assignment.
+  
+- **Awards**:  
+  - President’s Honor List (multiple semesters)  
+  - National Champion – 14th Nepal Physics Olympiad
+
+---
 
 ---
 
